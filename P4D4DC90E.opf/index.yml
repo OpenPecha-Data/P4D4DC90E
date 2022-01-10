@@ -1,0 +1,121 @@
+id: ed10c2973ae740928624be01b4a03781
+annotation_type: index
+revision: '00001'
+annotations:
+  b7c613bb52a8459cab68ad213000f6ac:
+    work_id: JDol1
+    parts:
+      06ffe594cd304c559f57b1c623f6ce80:
+        work_id: JDol1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 21152
+    span:
+    - vol: 1
+      start: 0
+      end: 21152
+  62fa6e87916d431dabb6941c6a1d5757:
+    work_id: JDol3
+    parts:
+      bf4c2793d71b416fbe847911272fe87d:
+        work_id: JDol3-2
+        span:
+        - vol: 2
+          start: 0
+          end: 267950
+    span:
+    - vol: 2
+      start: 0
+      end: 267950
+  d60b8bdc3d23492b8a17f4f6dee7fd46:
+    work_id: JDol15
+    parts:
+      0c958c5bf7a744d9b59b523363e1878c:
+        work_id: JDol15-3
+        span:
+        - vol: 3
+          start: 0
+          end: 116077
+    span:
+    - vol: 3
+      start: 0
+      end: 116077
+  8c2252b0f2cc41e0b974bf4a5d3b0c11:
+    work_id: JDol18
+    parts:
+      7dbba640173e4b5397b751a52ee8df80:
+        work_id: JDol18-4
+        span:
+        - vol: 4
+          start: 0
+          end: 488741
+    span:
+    - vol: 4
+      start: 0
+      end: 488741
+  66003eb063e041c483e485bee5bf7616:
+    work_id: JDol20
+    parts:
+      aecc0017fb5b42ea8bc21e66b21908f7:
+        work_id: JDol20-5
+        span:
+        - vol: 5
+          start: 0
+          end: 214748
+    span:
+    - vol: 5
+      start: 0
+      end: 214748
+  936b057e09714636b81b6b012ca33ca5:
+    work_id: JDol27
+    parts:
+      fd76a61d63344cc3bdf9c595b63d7c79:
+        work_id: JDol27-6
+        span:
+        - vol: 6
+          start: 0
+          end: 121082
+    span:
+    - vol: 6
+      start: 0
+      end: 121082
+  291ab214f54c433987d33a292373821f:
+    work_id: JDol52
+    parts:
+      1d32110dc79c4293b983fbb2e9485cab:
+        work_id: JDol52-7
+        span:
+        - vol: 7
+          start: 0
+          end: 9455
+    span:
+    - vol: 7
+      start: 0
+      end: 9455
+  fca1e58fb1974af8bc2c52b50de59e41:
+    work_id: JDol84
+    parts:
+      bc5a47864fb444e0b6d692e71cbda65f:
+        work_id: JDol84-8
+        span:
+        - vol: 8
+          start: 0
+          end: 7500
+    span:
+    - vol: 8
+      start: 0
+      end: 7500
+  ab83dc0b5541477aad14fe4b1ceba1d6:
+    work_id: JDol206
+    parts:
+      cc50c4be3a8b4c46931db68ae47323fc:
+        work_id: JDol206-9
+        span:
+        - vol: 9
+          start: 0
+          end: 270862
+    span:
+    - vol: 9
+      start: 0
+      end: 270862
